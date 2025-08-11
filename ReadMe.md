@@ -1,7 +1,10 @@
 # ChessLM
 
-> AI-powered chess platform where humans battle language models with real-time analysis and reasoning.
+> AI-powered chess platform featuring human vs. language model and language model vs. language model battles, with real-time analysis and reasoning.
 
+
+# Demo
+[![Watch on YouTube](https://img.youtube.com/vi/fetZ2JDnFj8/0.jpg)](https://www.youtube.com/watch?v=fetZ2JDnFj8)
 ## Features
 
 - 🎯 **Human vs AI** - Challenge GPT, Claude, and Llama models
