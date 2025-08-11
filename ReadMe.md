@@ -1,6 +1,6 @@
 # ChessLM
 
-> AI-powered chess platform where humans battle language models with real-time analysis and reasoning.
+> AI-powered chess platform featuring human vs. language model and language model vs. language model battles, with real-time analysis and reasoning.
 
 ## Features
 
